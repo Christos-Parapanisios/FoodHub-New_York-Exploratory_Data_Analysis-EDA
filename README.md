@@ -1,2 +1,2 @@
 # FoodHub - New York  - Exploratory Data Analysis
-The food aggregator company has stored the data of the different orders made by the registered customers in their online portal.
+Analyzing the data through (EDA) for a food aggregator company to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience.
